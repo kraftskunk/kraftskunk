@@ -1,5 +1,4 @@
-**General**
-I use this repository for generally, useful things.
+I use this repository for generally useful things.
 
 <!---
 kraftskunk/kraftskunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
