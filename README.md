@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kraftskunk
-- 👀 I’m interested to clone repositories for personal use
-- 🌱 I’m currently learning GitHub
-- 📫 You can reach me on kraftskunk@gmail.com
+I use this repository for generally, useful things.
 
 <!---
 kraftskunk/kraftskunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
